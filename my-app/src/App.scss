@@ -1,0 +1,14 @@
+$color: pink;
+
+body {
+  background-color: $color;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  font-size: 60px;
+}
